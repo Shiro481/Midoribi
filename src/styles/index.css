@@ -1,0 +1,15 @@
+@import './variables.css';
+@import './animations.css';
+@import './base.css';
+@import './layout.css';
+@import './components/ui.css';
+@import './components/hero.css';
+@import './components/delights.css';
+@import './components/features.css';
+@import './components/sanctuary.css';
+@import './components/navigation.css';
+@import './components/footer.css';
+@import './components/background.css';
+@import './pages/menu.css';
+@import './pages/about.css';
+@import './pages/contact.css';

@@ -1,0 +1,18 @@
+.root-layout {
+  min-height: 100vh;
+  background-color: var(--color-dark);
+  position: relative;
+}
+
+.main-content {
+  position: relative;
+  z-index: 10;
+}
+
+.pt-16 {
+  padding-top: 4rem;
+}
+
+main {
+  min-height: calc(100vh - 4rem); /* accounting for navbar */
+}
